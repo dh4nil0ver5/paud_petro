@@ -1,0 +1,57 @@
+[29-Sep-2020 15:00:25 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[29-Sep-2020 15:00:25 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[02-Oct-2020 11:35:08 UTC] PHP Fatal error:  Can't use method return value in write context in /home/paudterp/main_laravel/app/Http/Controllers/PPDBController.php on line 18
+[02-Oct-2020 11:35:56 UTC] PHP Fatal error:  Can't use method return value in write context in /home/paudterp/main_laravel/app/Http/Controllers/PPDBController.php on line 17
+[06-Oct-2020 03:02:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/paudterp/main_laravel/app/Http/Controllers/PPDBController.php on line 23
+[06-Oct-2020 03:08:15 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/paudterp/main_laravel/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php on line 7
+[27-Oct-2020 11:25:56 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[27-Oct-2020 11:25:56 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[27-Oct-2020 11:46:40 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[27-Oct-2020 11:46:40 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[27-Oct-2020 12:40:16 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[27-Oct-2020 12:40:16 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[27-Oct-2020 14:39:30 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[27-Oct-2020 14:39:30 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[27-Oct-2020 18:22:13 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[27-Oct-2020 18:22:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[27-Oct-2020 19:26:00 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[27-Oct-2020 19:26:00 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[27-Oct-2020 20:38:33 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[27-Oct-2020 20:38:33 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[27-Oct-2020 22:53:17 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[27-Oct-2020 22:53:17 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:08:03 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:08:03 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:08:13 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:08:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:17:24 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:17:24 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:18:10 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:18:10 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:18:13 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:18:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:18:20 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:18:20 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:18:23 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:18:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:18:25 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:18:25 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:18:27 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:18:27 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:18:41 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:18:41 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:18:45 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:18:45 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:20:47 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:20:47 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:21:24 UTC] PHP Warning:  require(/home/paudterp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:21:24 UTC] PHP Fatal error:  require(): Failed opening required '/home/paudterp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 24
+[28-Oct-2020 03:24:22 UTC] PHP Warning:  require_once(/home/paudterp/public_html/../bootstrap/app.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 38
+[28-Oct-2020 03:24:22 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/paudterp/public_html/../bootstrap/app.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 38
+[28-Oct-2020 03:24:23 UTC] PHP Warning:  require_once(/home/paudterp/public_html/../bootstrap/app.php): failed to open stream: No such file or directory in /home/paudterp/public_html/index.php on line 38
+[28-Oct-2020 03:24:23 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/paudterp/public_html/../bootstrap/app.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/paudterp/public_html/index.php on line 38
+[02-Nov-2020 14:40:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/paudterp/main_laravel/bootstrap/app.php:14
+Stack trace:
+#0 /home/paudterp/public_html/index.php(38): require_once()
+#1 {main}
+  thrown in /home/paudterp/main_laravel/bootstrap/app.php on line 14

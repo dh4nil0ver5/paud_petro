@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"> 
+  <title>Document</title>
+  <link rel="stylesheet" href="bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <a class="logo">Logo</a>
+    <ul>
+      <li><a>PPDB</a></li>
+      <li><a>Informasi</a></li>
+      <li><a>Kegiatan</a></li> 
+    </ul>
+  </header>
+  <section class="banner"> 
+    <div class="container"> 
+      <div class="body_page"> 
+        <div style="padding: 2px;">
+          <p>Sambutan Kepala Sekolah</p>
+          <video src="Create A Custom HTML5 Video Player.mp4" />
+        </div>
+        <div style="padding: 2px;">
+          <video src="Create A Custom HTML5 Video Player.mp4" />
+        </div>
+      </div>
+    </div>
+  </section>
+  <script type="text/javascript">
+    window.addEventListener("scroll", function(){
+      var header = document.querySelector("header"); 
+      header.classList.toggle("sticky", window.scrollY>0);
+    });
+  </script>
+</body>
+</html>

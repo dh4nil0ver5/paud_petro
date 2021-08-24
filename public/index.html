@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Welcome !</title>
+  <!-- Tell the browser to be responsive to screen width -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="bootstrap/dist/css/bootstrap.min.css" />
+  <style>
+    body{ margin: 0; padding: 0;
+      background: url("./unnamed.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /* IE 9 and under*/
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
+  }
+  .none{ display: none; }
+</style>
+  </style>
+</head>
+<body>
+  <div class="container text-center">
+    <div class="row" style="margin-left: 20%; margin-top: 15%; width: 60%;" id="menu1">
+      <div class="col-md-6">
+        <button class="btn btn-flat btn-info" id="s"
+          style="width: 100%; height: 200px; margin-right: 1%; margin-top: 1%; margin-bottom: 1%;">
+        <img src="ppdb_icon.png" style="width: 100%; height: 150px;" />
+          <p>PPDB</p>
+        </button>
+      </div>
+      <div class="col-md-6">
+        <div class="btn-group none" id="simanjuntakPKPG" style="margin-top: 15%;">
+          <button type="button" name="button" class="btn btn-flat btn-md btn-primary">kb</button>
+          <button type="button" name="button" class="btn btn-flat btn-md btn-primary">tk</button>
+          <button type="button" name="button" class="btn btn-flat btn-md btn-primary">tpa</button>
+          <button type="button" name="button" class="btn btn-flat btn-md btn-warning" onclick="kembali_spkpg()">back</button>
+        </div>
+        <img src="simanjuntak_pikpg.png" style="width: 100%; margin-top: 15%;" onclick="simanjuntak()" id="logo_spkpg"/>
+        <div class="btn-group none" id="ponganganPKPG" style="margin-top: 15%;">
+          <button type="button" name="button" class="btn btn-flat btn-md btn-primary">kb</button>
+          <button type="button" name="button" class="btn btn-flat btn-md btn-primary">tk</button>
+          <button type="button" name="button" class="btn btn-flat btn-md btn-primary">tpa</button>
+          <button type="button" name="button" class="btn btn-flat btn-md btn-warning" onclick="kembali_ppkpg()">back</button>
+        </div>
+        <img src="pongangan_pikpg.png" style="width: 100%; margin-top: 15%;" onclick="pongangan()" id="logo_ppkpg"/>
+      </div>
+    </div>
+    <!-- <div class="row" hidden id="simanjuntakPKPG">
+      <div class="col-md-4">
+        <img src="" alt="Kelompok Bersama">
+      </div>
+      <div class="col-md-4">
+        <img src="" alt="Taman Kanak-kanak">
+      </div>
+      <div class="col-md-4">
+        <img src="" alt="Tempat Penitipan Anak">
+      </div>
+    </div>
+    <div class="row" hidden id="ponganganPKPG"> -->
+      <div class="col-md-4">
+      </div>
+      <div class="col-md-4">
+      </div>
+      <div class="col-md-4">
+      </div>
+    </div>
+  </div>
+
+
+  <footer style="width: 100%; text-align: center; margin-top: 10%;">
+    <p>PIKPG IT Engginering @dev@v0.1</p>
+  </footer>
+
+  <script src="plugins/jquery/jquery.min.js"></script>
+  <script src="plugins/bootstrap/js/bootstrap.min.js"></script>
+  <script src="js/home.js"></script>
+  <script>
+
+  </script>
+</body>
+</html>
